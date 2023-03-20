@@ -1,13 +1,13 @@
 
-Task
+Task<br>
 
-Given an integer, , perform the following conditional actions:
+Given an integer, , perform the following conditional actions:<br>
 
-If  is odd, print Weird
-If  is even and in the inclusive range of  to , print Not Weird
-If  is even and in the inclusive range of  to , print Weird
-If  is even and greater than , print Not Weird
-Input Format : A single line containing a positive integer, n.
+If  is odd, print Weird<br>
+If  is even and in the inclusive range of  to , print Not Weird<br>
+If  is even and in the inclusive range of  to , print Weird<br>
+If  is even and greater than , print Not Weird<br>
+Input Format : A single line containing a positive integer, n.<br>
 
 <br>
 Output Format:<br>
