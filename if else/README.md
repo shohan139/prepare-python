@@ -17,4 +17,4 @@ Print Weird if the number is weird. Otherwise, print Not Weird.
 <b>Sample Input :</b> 3
 <br><br>
 
-<b>Sample Output :/<b> Weird
+<b>Sample Output :</b> Weird
