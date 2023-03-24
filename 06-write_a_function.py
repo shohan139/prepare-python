@@ -1,3 +1,6 @@
+# a function which returns true if the year is a leap year
+
+
 def is_leap(year):
     leap = False
     
